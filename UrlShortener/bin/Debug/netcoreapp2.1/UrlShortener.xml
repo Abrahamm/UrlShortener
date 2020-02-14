@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>UrlShortener</name>
+    </assembly>
+    <members>
+        <member name="M:UrlShortener.Controllers.UrlController.GetUrls">
+            <summary>
+            Retrieves ALL URLs
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UrlController.GetUrl(System.Int32)">
+            <summary>
+            Retrieve one URL specified by id
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UrlController.GetTagsOfUrl(System.Int32)">
+            <summary>
+            Retrieve a list of all tags for specified URL with given id
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UrlController.CreateUrl(UrlShortener.Models.UrlForCreationDto)">
+            <summary>
+            Create new URL
+            </summary>
+              <remarks>
+            Sample request:
+            
+                POST api/urls
+                {
+                "longUrl": "https://flexbit.hr",
+                "shortUrl": "flxbt",
+                "dateCreated": "2020-01-25T11:30:49",
+                "dateExpires": "2020-02-25T11:30:49",
+                "userId": "2"
+               }
+            </remarks>
+        </member>
+        <member name="M:UrlShortener.Controllers.UrlController.UpdateUrl(UrlShortener.Models.UrlForUpdateDto,System.Int32)">
+            <summary>
+            Update an URL (FULL UPDATE)
+            </summary>
+              <remarks>
+            Sample request:
+            
+                POST api/urls/7
+                {
+                "longUrl": "https://flexbit.hr",
+                "shortUrl": "fleex",
+                "dateCreated": "2020-01-25T11:30:49",
+                "dateExpires": "2020-02-25T11:30:49",
+                "userId": "2"
+               }
+            </remarks>
+        </member>
+        <member name="M:UrlShortener.Controllers.UserController.GetUsers">
+            <summary>
+            Retrieves all Users
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UserController.GetUser(System.Int32)">
+            <summary>
+            Retrieves User with specified ID
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UserController.GetUserUrls(System.Int32)">
+            <summary>
+            Retrieves all URLs from specified User
+            </summary>
+        </member>
+        <member name="M:UrlShortener.Controllers.UserController.CreateUser(UrlShortener.Models.UserForCreationDto)">
+            <summary>
+            Creates a new user
+            </summary>
+            /// <remarks>
+            Sample request:
+            
+                POST api/user
+                {
+                 "FirstName": "Zoran",
+                  "LastName": "Milanović",
+                  "BirthDate": "1965-03-19T00:00:00"
+                  }
+            </remarks>
+        </member>
+        <member name="M:UrlShortener.Controllers.UserController.UpdateUser(System.Int32,UrlShortener.Models.UserForUpdateDto)">
+            <summary>
+            Updates user (FULL UPDATE)
+            </summary>
+            /// <remarks>
+            Sample request:
+            
+                POST api/user
+                {
+                 "FirstName": "Zoran",
+                  "LastName": "Grabar-Kitarović",
+                  "BirthDate": "1965-03-19T00:00:00"
+                  }
+            </remarks>
+        </member>
+    </members>
+</doc>

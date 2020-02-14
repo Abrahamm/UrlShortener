@@ -1,0 +1,16 @@
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.csprojAssemblyReference.cache
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.RazorAssemblyInfo.cache
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.RazorAssemblyInfo.cs
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.AssemblyInfoInputs.cache
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.AssemblyInfo.cs
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.deps.json
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.runtimeconfig.json
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.runtimeconfig.dev.json
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.dll
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.pdb
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.RazorTargetAssemblyInfo.cache
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.dll
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\obj\Debug\netcoreapp2.1\UrlShortener.pdb
+C:\Users\LukaNuić\Project UrlShortener\UrlShortener\UrlShortener\bin\Debug\netcoreapp2.1\UrlShortener.xml
